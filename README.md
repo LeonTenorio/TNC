@@ -7,3 +7,4 @@ Repositório contendo algumas implementações computacionais realizadas por mim
 Códigos implementados:
 
 - [RSA](rsa)
+- [Teste de Lucas](lucas)

@@ -1,0 +1,1 @@
+De acordo com o teste de lucas, o número 127 é primo
